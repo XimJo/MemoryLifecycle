@@ -1,0 +1,15 @@
+C:\Users\User\MemoryLifecycle\src\MemoryLifecycle\bin\Debug\net8.0\MemoryLifecycle.exe
+C:\Users\User\MemoryLifecycle\src\MemoryLifecycle\bin\Debug\net8.0\MemoryLifecycle.deps.json
+C:\Users\User\MemoryLifecycle\src\MemoryLifecycle\bin\Debug\net8.0\MemoryLifecycle.runtimeconfig.json
+C:\Users\User\MemoryLifecycle\src\MemoryLifecycle\bin\Debug\net8.0\MemoryLifecycle.dll
+C:\Users\User\MemoryLifecycle\src\MemoryLifecycle\bin\Debug\net8.0\MemoryLifecycle.pdb
+C:\Users\User\MemoryLifecycle\src\MemoryLifecycle\obj\Debug\net8.0\MemoryLifecycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\MemoryLifecycle\src\MemoryLifecycle\obj\Debug\net8.0\MemoryLifecycle.AssemblyInfoInputs.cache
+C:\Users\User\MemoryLifecycle\src\MemoryLifecycle\obj\Debug\net8.0\MemoryLifecycle.AssemblyInfo.cs
+C:\Users\User\MemoryLifecycle\src\MemoryLifecycle\obj\Debug\net8.0\MemoryLifecycle.csproj.CoreCompileInputs.cache
+C:\Users\User\MemoryLifecycle\src\MemoryLifecycle\obj\Debug\net8.0\MemoryLifecycle.sourcelink.json
+C:\Users\User\MemoryLifecycle\src\MemoryLifecycle\obj\Debug\net8.0\MemoryLifecycle.dll
+C:\Users\User\MemoryLifecycle\src\MemoryLifecycle\obj\Debug\net8.0\refint\MemoryLifecycle.dll
+C:\Users\User\MemoryLifecycle\src\MemoryLifecycle\obj\Debug\net8.0\MemoryLifecycle.pdb
+C:\Users\User\MemoryLifecycle\src\MemoryLifecycle\obj\Debug\net8.0\MemoryLifecycle.genruntimeconfig.cache
+C:\Users\User\MemoryLifecycle\src\MemoryLifecycle\obj\Debug\net8.0\ref\MemoryLifecycle.dll
